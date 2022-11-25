@@ -246,6 +246,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [unifiedjs/unified](https://github.com/unifiedjs/unified) - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 - [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced) - 🍕  This is a project to identify your next open source contribution.
@@ -677,6 +678,7 @@
 
 ## TypeScript 
 
+- [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript.
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
 - [ethereum/sourcify](https://github.com/ethereum/sourcify) - Decentralized Solidity contract source code verification service
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
