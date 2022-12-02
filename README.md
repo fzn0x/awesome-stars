@@ -503,6 +503,7 @@
 
 ## Others 
 
+- [fzn0x/awesome-stars](https://github.com/fzn0x/awesome-stars) - List of starred repositories by me!
 - [dwisiswant0/awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) - A collection of awesome one-liner scripts especially for bug bounty tips.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [samdroid-apps/nix-articles](https://github.com/samdroid-apps/nix-articles) - Some articles about getting started with Nix programming & configuration
@@ -679,6 +680,8 @@
 
 ## TypeScript 
 
+- [fzn0x/css](https://github.com/fzn0x/css) - A Virtual CSS language with enhanced syntax ~13KB
+- [master-co/css](https://github.com/master-co/css) - A Virtual CSS language with enhanced syntax ~13KB
 - [twinlogix/typetta](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
