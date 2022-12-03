@@ -380,7 +380,7 @@
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [sindresorhus/open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [fzn0x/timetheft](https://github.com/fzn0x/timetheft) - [unmaintained] ⏰ Timetheft.js - Simple and opinionated library to handle countdown in Javascript
+- [fzn0x/timetheft](https://github.com/fzn0x/timetheft) - ⏰ Timetheft.js - Simple and opinionated library to handle countdown in Javascript
 - [tapjs/node-tap](https://github.com/tapjs/node-tap) - Test Anything Protocol tools for node
 - [sindresorhus/escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters
 - [douglascrockford/howjavascriptworks](https://github.com/douglascrockford/howjavascriptworks) - Programs from the book _How JavaScript Works_
@@ -452,7 +452,7 @@
 - [fzn0x/billboard-chart-scraper](https://github.com/fzn0x/billboard-chart-scraper) - Billboard Chart Scraper is Open Source API and SDK of https://www.billboard.com/charts/ charts song & artist lists.
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 - [STRML/textFit](https://github.com/STRML/textFit) - A jQuery-free component that quickly fits single and multi-line text to the width (and optionally height) of its container.
-- [fzn0x/encryptlab](https://github.com/fzn0x/encryptlab) - [unmaintained] 🔑 Comprehensive (and free) list of encryption and decryption in Node.js.
+- [fzn0x/encryptlab](https://github.com/fzn0x/encryptlab) - 🔑 EncryptLab - Comprehensive list of encryption and decryption in Node.js.
 - [sveltegaruda/template](https://github.com/sveltegaruda/template) - Svelte starter template with HMR, code splitting, datatable & modular ui-kit
 - [wouldgo/twofish](https://github.com/wouldgo/twofish) - Twofish (ECB and CBC) javascript implementation
 - [zuramai/countdown.js](https://github.com/zuramai/countdown.js) - A simple countdown for islamic prayers time
@@ -735,7 +735,7 @@
 - [googleapis/nodejs-bigquery](https://github.com/googleapis/nodejs-bigquery) - Node.js client for Google Cloud BigQuery: A fast, economical and fully-managed enterprise data warehouse for large-scale data analytics.
 - [thechungster/splinterlands-api](https://github.com/thechungster/splinterlands-api) - Package for the Splinterlands API. Typed responses
 - [ninjastic/axiewatch](https://github.com/ninjastic/axiewatch) - Track your axie infinity scholars and axies with ease. Made with Next and Node.
-- [fzn0x/spellcasting](https://github.com/fzn0x/spellcasting) - 🧙‍♂️ Easy and safely cast a spell to casting from one data type to another in Javascript | ESM and CJS enabled.
+- [fzn0x/spellcasting](https://github.com/fzn0x/spellcasting) - 🧙‍♂️ Spellcasting - Easy and safely cast a spell to casting from one data type to another in Javascript.
 - [unjs/ohash](https://github.com/unjs/ohash) - Super fast hashing library based on murmurhash3 written in Vanilla JS
 - [thomasdondorf/puppeteer-cluster](https://github.com/thomasdondorf/puppeteer-cluster) - Puppeteer Pool, run a cluster of instances in parallel
 - [watermelontools/watermelon-extension](https://github.com/watermelontools/watermelon-extension) - 🍉  Your code archeology toolbox
@@ -786,7 +786,7 @@
 - [plumier/plumier](https://github.com/plumier/plumier) - A TypeScript backend framework focuses on development productivity, uses dedicated reflection library to help you create a robust, secure and fast API delightfully.
 - [emsifa/al-ihsan.app](https://github.com/emsifa/al-ihsan.app) - 
 - [satyawikananda/berita-indo-api](https://github.com/satyawikananda/berita-indo-api) - An api to display news in Indonesia
-- [fzn0x/mazer-nuxt](https://github.com/fzn0x/mazer-nuxt) - Mazer Nuxt - Free Bootstrap 5 Admin Dashboard Template and Landing Page with Nuxt 3 + TypeScript.
+- [fzn0x/mazer-nuxt](https://github.com/fzn0x/mazer-nuxt) - Mazer Free Bootstrap 5 Admin Dashboard Template and Landing Page with Nuxt 3 + TypeScript.
 - [mysticatea/abort-controller](https://github.com/mysticatea/abort-controller) - An implementation of WHATWG AbortController interface.
 - [mesqueeb/merge-anything](https://github.com/mesqueeb/merge-anything) - Merge objects & other types recursively. A simple & small integration.
 - [nurcahyaari/Content-Based-Filtering](https://github.com/nurcahyaari/Content-Based-Filtering) - Content based Filtering is a libary for calculate recommendation using content based filtering method. build on top of nodejs and typescript. using Naturaljs for solve the NLP Task
