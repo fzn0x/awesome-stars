@@ -292,7 +292,7 @@
 - [stisla/stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
 - [zuramai/voler](https://github.com/zuramai/voler) - The first Bootstrap 5 admin dashboard template
 - [zuramai/mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
-- [fzn0x/mazer-nuxt](https://github.com/fzn0x/mazer-nuxt) - Mazer Nuxt - Free Bootstrap 5 Admin Dashboard Template and Landing Page with Nuxt 3 + TypeScript.
+- [fzn0x/mazer-nuxt](https://github.com/fzn0x/mazer-nuxt) - Mazer Free Bootstrap 5 Admin Dashboard Template and Landing Page with Nuxt 3 + TypeScript.
 
 ## bot 
 
@@ -736,7 +736,7 @@
 - [nafiesl/free-pmo](https://github.com/nafiesl/free-pmo) - Project management software for freelancers or agencies, built with Laravel.
 - [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the view
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
-- [fzn0x/encryptlab](https://github.com/fzn0x/encryptlab) - [unmaintained] 🔑 Comprehensive (and free) list of encryption and decryption in Node.js.
+- [fzn0x/encryptlab](https://github.com/fzn0x/encryptlab) - 🔑 EncryptLab - Comprehensive list of encryption and decryption in Node.js.
 - [TeaInside/teavpn2](https://github.com/TeaInside/teavpn2) - TeaVPN2 - An open source VPN Software (currently supported platform is only Linux).
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [fzn0x/amirajs](https://github.com/fzn0x/amirajs) - Amirajs is Lightweight (~0.4kb compressed) JS Library for DOM Manipulation
@@ -839,7 +839,7 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [0xs34n/blockchain](https://github.com/0xs34n/blockchain) - 📖Code for Blockchain Demo
 - [solana-labs/solana-web3.js](https://github.com/solana-labs/solana-web3.js) - Solana JavaScript SDK
-- [fzn0x/spellcasting](https://github.com/fzn0x/spellcasting) - 🧙‍♂️ Easy and safely cast a spell to casting from one data type to another in Javascript | ESM and CJS enabled.
+- [fzn0x/spellcasting](https://github.com/fzn0x/spellcasting) - 🧙‍♂️ Spellcasting - Easy and safely cast a spell to casting from one data type to another in Javascript.
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [browserify/resolve](https://github.com/browserify/resolve) - Implements the node.js require.resolve() algorithm
 - [lume/lume](https://github.com/lume/lume) - Create 3D web applications with HTML. Bring a new depth to your DOM!
@@ -865,7 +865,7 @@
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [fzn0x/timetheft](https://github.com/fzn0x/timetheft) - [unmaintained] ⏰ Timetheft.js - Simple and opinionated library to handle countdown in Javascript
+- [fzn0x/timetheft](https://github.com/fzn0x/timetheft) - ⏰ Timetheft.js - Simple and opinionated library to handle countdown in Javascript
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [sinonjs/sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
@@ -899,7 +899,7 @@
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 - [mysticatea/abort-controller](https://github.com/mysticatea/abort-controller) - An implementation of WHATWG AbortController interface.
 - [mesqueeb/merge-anything](https://github.com/mesqueeb/merge-anything) - Merge objects & other types recursively. A simple & small integration.
-- [fzn0x/encryptlab](https://github.com/fzn0x/encryptlab) - [unmaintained] 🔑 Comprehensive (and free) list of encryption and decryption in Node.js.
+- [fzn0x/encryptlab](https://github.com/fzn0x/encryptlab) - 🔑 EncryptLab - Comprehensive list of encryption and decryption in Node.js.
 - [nastyox/Rando.js](https://github.com/nastyox/Rando.js) - The world's easiest, most powerful random function.
 - [fzn0x/incx.js](https://github.com/fzn0x/incx.js) - IncX.js - Include and Extends your HTML tags into seperate HTML files.
 - [fzn0x/amirajs](https://github.com/fzn0x/amirajs) - Amirajs is Lightweight (~0.4kb compressed) JS Library for DOM Manipulation
@@ -958,7 +958,7 @@
 - [ujjwalguptaofficial/JsStore](https://github.com/ujjwalguptaofficial/JsStore) - A complete IndexedDB wrapper with SQL like syntax.
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
 - [miguelmota/ethereum-input-data-decoder](https://github.com/miguelmota/ethereum-input-data-decoder) - Ethereum smart contract transaction input data decoder
-- [fzn0x/timetheft](https://github.com/fzn0x/timetheft) - [unmaintained] ⏰ Timetheft.js - Simple and opinionated library to handle countdown in Javascript
+- [fzn0x/timetheft](https://github.com/fzn0x/timetheft) - ⏰ Timetheft.js - Simple and opinionated library to handle countdown in Javascript
 - [mysticatea/abort-controller](https://github.com/mysticatea/abort-controller) - An implementation of WHATWG AbortController interface.
 - [nastyox/Rando.js](https://github.com/nastyox/Rando.js) - The world's easiest, most powerful random function.
 
@@ -1134,7 +1134,7 @@
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [FeedHive/twitter-api-client](https://github.com/FeedHive/twitter-api-client) - A user-friendly Node.js / JavaScript client library for interacting with the Twitter API.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-- [fzn0x/timetheft](https://github.com/fzn0x/timetheft) - [unmaintained] ⏰ Timetheft.js - Simple and opinionated library to handle countdown in Javascript
+- [fzn0x/timetheft](https://github.com/fzn0x/timetheft) - ⏰ Timetheft.js - Simple and opinionated library to handle countdown in Javascript
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [node-cache/node-cache](https://github.com/node-cache/node-cache) - a node internal (in-memory) caching module
@@ -1159,7 +1159,7 @@
 - [satyawikananda/berita-indo-api](https://github.com/satyawikananda/berita-indo-api) - An api to display news in Indonesia
 - [mysticatea/abort-controller](https://github.com/mysticatea/abort-controller) - An implementation of WHATWG AbortController interface.
 - [fzn0x/billboard-chart-scraper](https://github.com/fzn0x/billboard-chart-scraper) - Billboard Chart Scraper is Open Source API and SDK of https://www.billboard.com/charts/ charts song & artist lists.
-- [fzn0x/encryptlab](https://github.com/fzn0x/encryptlab) - [unmaintained] 🔑 Comprehensive (and free) list of encryption and decryption in Node.js.
+- [fzn0x/encryptlab](https://github.com/fzn0x/encryptlab) - 🔑 EncryptLab - Comprehensive list of encryption and decryption in Node.js.
 - [PatrickHollweck/AutoloaderTS](https://github.com/PatrickHollweck/AutoloaderTS) - A nodejs autoloader for typescript
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
@@ -1757,7 +1757,7 @@
 - [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [fzn0x/spellcasting](https://github.com/fzn0x/spellcasting) - 🧙‍♂️ Easy and safely cast a spell to casting from one data type to another in Javascript | ESM and CJS enabled.
+- [fzn0x/spellcasting](https://github.com/fzn0x/spellcasting) - 🧙‍♂️ Spellcasting - Easy and safely cast a spell to casting from one data type to another in Javascript.
 - [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
@@ -1780,7 +1780,7 @@
 - [alfianandinugraha/create-react-typescript-app](https://github.com/alfianandinugraha/create-react-typescript-app) - Integrating Reactjs with Typescript + ESLint
 - [plumier/plumier](https://github.com/plumier/plumier) - A TypeScript backend framework focuses on development productivity, uses dedicated reflection library to help you create a robust, secure and fast API delightfully.
 - [satyawikananda/berita-indo-api](https://github.com/satyawikananda/berita-indo-api) - An api to display news in Indonesia
-- [fzn0x/mazer-nuxt](https://github.com/fzn0x/mazer-nuxt) - Mazer Nuxt - Free Bootstrap 5 Admin Dashboard Template and Landing Page with Nuxt 3 + TypeScript.
+- [fzn0x/mazer-nuxt](https://github.com/fzn0x/mazer-nuxt) - Mazer Free Bootstrap 5 Admin Dashboard Template and Landing Page with Nuxt 3 + TypeScript.
 - [mesqueeb/merge-anything](https://github.com/mesqueeb/merge-anything) - Merge objects & other types recursively. A simple & small integration.
 - [PatrickHollweck/AutoloaderTS](https://github.com/PatrickHollweck/AutoloaderTS) - A nodejs autoloader for typescript
 
