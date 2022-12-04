@@ -140,6 +140,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
+- [solidity](#solidity)
 - [spacevim](#spacevim)
 - [sql](#sql)
 - [storybook](#storybook)
@@ -643,6 +644,7 @@
 - [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -707,7 +709,6 @@
 - [fzn0x/awesome-fp](https://github.com/fzn0x/awesome-fp) - λ Awesome Functional Programming List
 - [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [fachryansyah/fotongo](https://github.com/fachryansyah/fotongo) - Simple boilerplate for building Backend services like ExpressJS with GOFIBER ⚡️
@@ -1063,6 +1064,7 @@
 
 ## nextjs 
 
+- [minuukang/rescript-relay-next-ssr-template](https://github.com/minuukang/rescript-relay-next-ssr-template) - Rescript + Relay + Next.js + SSR example!
 - [masgalih320/quizapp-nextjs](https://github.com/masgalih320/quizapp-nextjs) - Simple QuizApp with Next JS
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [kawalcovid19/wargabantuwarga.com](https://github.com/kawalcovid19/wargabantuwarga.com) - Inisiatif warga untuk berbagi informasi seputar fasilitas kesehatan dan alat kesehatan untuk COVID-19.
@@ -1195,6 +1197,7 @@
 
 ## others 
 
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [fzn0x/awesome-stars](https://github.com/fzn0x/awesome-stars) - List of starred repositories by me!
 - [fzn0x/css](https://github.com/fzn0x/css) - A Virtual CSS language with enhanced syntax ~13KB
 - [yargs/set-blocking](https://github.com/yargs/set-blocking) - set blocking stdio and stderr ensuring that terminal output does not truncate
@@ -1298,7 +1301,6 @@
 - [zweimach/TeachYourselfCS-ID](https://github.com/zweimach/TeachYourselfCS-ID) - Teach Yourself CS - Bahasa Indonesia Translation
 - [decrypto-org/blockchain-papers](https://github.com/decrypto-org/blockchain-papers) - A curated list of academic blockchain-related papers
 - [indexed-finance/multicall](https://github.com/indexed-finance/multicall) - Solidity contract and typescript library for static multi-calls
-- [dmfxyz/murky](https://github.com/dmfxyz/murky) - Merkle Proof Generator and Validator in Solidity
 - [kadenzipfel/smart-contract-attack-vectors](https://github.com/kadenzipfel/smart-contract-attack-vectors) - A collection of smart contract attack vectors along with prevention methods.
 - [plc-ultima/plcu](https://github.com/plc-ultima/plcu) - PLC Ultima Core
 - [thechungster/splinterlands-api](https://github.com/thechungster/splinterlands-api) - Package for the Splinterlands API. Typed responses
@@ -1664,6 +1666,18 @@
 ## software 
 
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+
+## solidity 
+
+- [dmfxyz/murky](https://github.com/dmfxyz/murky) - Merkle Proof Generator and Validator in Solidity
+- [frankiefab100/Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources) - The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.
+- [chainsulting/Smart-Contract-Security-Audits](https://github.com/chainsulting/Smart-Contract-Security-Audits) - Certified Smart Contract Audits for Ethereum, Solana, Near, Cardano, Aptos, Sui, Binance Smart Chain, Fantom, EOS, Tezos by Chainsulting
+- [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
+- [tintinweb/smart-contract-sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) - 🐦🌴🌴🌴🦕 A home for ethereum smart contracts. 🏠
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [NomicFoundation/truffle-flattener](https://github.com/NomicFoundation/truffle-flattener) - Truffle Flattener concats solidity files from Truffle and Buidler projects with all of their dependencies
+- [miguelmota/ethereum-input-data-decoder](https://github.com/miguelmota/ethereum-input-data-decoder) - Ethereum smart contract transaction input data decoder
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 
 ## spacevim 
 
