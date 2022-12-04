@@ -486,6 +486,7 @@
 
 ## Nix 
 
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
 - [r17x/memulai-flakes](https://github.com/r17x/memulai-flakes) - 
@@ -601,6 +602,7 @@
 
 ## ReScript 
 
+- [minuukang/rescript-relay-next-ssr-template](https://github.com/minuukang/rescript-relay-next-ssr-template) - Rescript + Relay + Next.js + SSR example!
 - [r17x/rescript-libs](https://github.com/r17x/rescript-libs) - ⚡️ a Collections and Essential set of Library, Utility, & Tools for ReScript Lang especially in Web.
 - [r17x/rescript-pulo](https://github.com/r17x/rescript-pulo) - ⚡️  [Pulo.dev] with ReScript, React, Recoil, and Chakra
 - [r17x/rescript-chakra](https://github.com/r17x/rescript-chakra) - ⚡️⚛️ ReScript bindings for @chakra-ui/react
