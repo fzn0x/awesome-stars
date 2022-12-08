@@ -153,7 +153,7 @@
 - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
 - [alphadose/haxmap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient golang concurrent hashmap
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
-- [ayntgl/discordo](https://github.com/ayntgl/discordo) - A lightweight, secure, and feature-rich Discord terminal client
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [solo-io/unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
 - [timescale/tsbs](https://github.com/timescale/tsbs) - Time Series Benchmark Suite, a tool for comparing and evaluating databases for time series data
