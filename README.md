@@ -658,6 +658,7 @@
 
 ## Shell 
 
+- [jasonk/inform-slack](https://github.com/jasonk/inform-slack) - Send build/deploy/etc process progress to Slack
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7.1 (semi-)tethered checkm8 jailbreak
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
@@ -672,6 +673,8 @@
 
 ## Solidity 
 
+- [unlock-protocol/unlock](https://github.com/unlock-protocol/unlock) - Ʉnlock is a protocol for memberships built on a blockchain.
+- [m1guelpf/lil-web3](https://github.com/m1guelpf/lil-web3) - Simple, intentionally-limited versions of web3 protocols & apps.
 - [ourzora/v3](https://github.com/ourzora/v3) - 
 - [dmfxyz/murky](https://github.com/dmfxyz/murky) - Merkle Proof Generator and Validator in Solidity
 - [balancer-labs/balancer-core](https://github.com/balancer-labs/balancer-core) - Balancer on the EVM
@@ -682,6 +685,7 @@
 
 ## TypeScript 
 
+- [agoraxyz/guild.xyz](https://github.com/agoraxyz/guild.xyz) - A tool for token-curated communities.
 - [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT
 - [fzn0x/css](https://github.com/fzn0x/css) - A Virtual CSS language with enhanced syntax ~13KB
 - [master-co/css](https://github.com/master-co/css) - A Virtual CSS language with enhanced syntax ~13KB
