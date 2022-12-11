@@ -503,6 +503,7 @@
 
 ## Others 
 
+- [millsp/material-candy](https://github.com/millsp/material-candy) - 🍬 A vscode theme to uplift your mood, stay happy and focused.
 - [fzn0x/awesome-stars](https://github.com/fzn0x/awesome-stars) - List of starred repositories by me!
 - [dwisiswant0/awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) - A collection of awesome one-liner scripts especially for bug bounty tips.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
