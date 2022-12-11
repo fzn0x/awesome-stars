@@ -289,6 +289,7 @@
 - [TrueBlocks/trueblocks-core](https://github.com/TrueBlocks/trueblocks-core) - The main repository for the TrueBlocks system
 - [fzn0x/learn-basic-smartcontract](https://github.com/fzn0x/learn-basic-smartcontract) - Learn Basic Smart Contract with Solidity and Web3.js
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+- [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 
 ## bootstrap 
 
@@ -1207,6 +1208,7 @@
 
 ## others 
 
+- [millsp/material-candy](https://github.com/millsp/material-candy) - 🍬 A vscode theme to uplift your mood, stay happy and focused.
 - [agoraxyz/guild.xyz](https://github.com/agoraxyz/guild.xyz) - A tool for token-curated communities.
 - [m1guelpf/lil-web3](https://github.com/m1guelpf/lil-web3) - Simple, intentionally-limited versions of web3 protocols & apps.
 - [jasonk/inform-slack](https://github.com/jasonk/inform-slack) - Send build/deploy/etc process progress to Slack
