@@ -390,6 +390,7 @@
 
 ## data-structures 
 
+- [jihwooon/Algorithm-JavaScript](https://github.com/jihwooon/Algorithm-JavaScript) - JavaScript 자료구조와 알고리즘
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
 ## data-visualization 
