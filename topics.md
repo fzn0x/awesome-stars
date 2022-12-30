@@ -504,6 +504,7 @@
 - [dawsbot/essential-eth](https://github.com/dawsbot/essential-eth) - 🪶 An alternative to ethers & web3 that's 20x smaller
 - [unlock-protocol/unlock](https://github.com/unlock-protocol/unlock) - Ʉnlock is a protocol for memberships built on a blockchain.
 - [aragon/use-wallet](https://github.com/aragon/use-wallet) - 👛 useWallet() · All-in-one solution to connect a dapp to an Ethereum provider.
+- [dmfxyz/murky](https://github.com/dmfxyz/murky) - Merkle Proof Generator and Validator in Solidity
 - [torrinworx/Blend_My_NFTs](https://github.com/torrinworx/Blend_My_NFTs) - Easily generate thousands of 3D models, images, and animation NFTs automatically in Blender for free with Blend_My_NFTs.
 - [frankiefab100/Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources) - The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.
 - [trufflesuite/ganache-ui](https://github.com/trufflesuite/ganache-ui) - Personal blockchain for Ethereum development
@@ -692,7 +693,7 @@
 ## hacktoberfest 
 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.3 (semi-)tethered checkm8 jailbreak
 - [autoai-org/AID](https://github.com/autoai-org/AID) - One-Stop System for Machine Learning.
 - [hyperstackjs/hyperstack](https://github.com/hyperstackjs/hyperstack) - The pragmatic app framework for builders 🐶
 - [dwisiswant0/awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) - A collection of awesome one-liner scripts especially for bug bounty tips.
@@ -795,7 +796,7 @@
 
 ## ios 
 
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.3 (semi-)tethered checkm8 jailbreak
 
 ## iot 
 
@@ -1798,6 +1799,7 @@
 - [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra) - JavaScript package manager
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
 - [microsoft/tslib](https://github.com/microsoft/tslib) - Runtime library for TypeScript helpers.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
