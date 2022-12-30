@@ -667,7 +667,7 @@
 ## Shell 
 
 - [jasonk/inform-slack](https://github.com/jasonk/inform-slack) - Send build/deploy/etc process progress to Slack
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.3 (semi-)tethered checkm8 jailbreak
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [protocol/nft-website](https://github.com/protocol/nft-website) - NFT School: Community education platform for developers in the non-fungible token space.
