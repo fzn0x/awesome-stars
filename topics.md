@@ -947,7 +947,6 @@
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [ii64/go-binder](https://github.com/ii64/go-binder) - Go binding configuration and command flag made easy✨✨
-- [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 
 ## kotlin 
 
