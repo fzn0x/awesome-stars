@@ -1443,7 +1443,6 @@
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
 - [windicss/nuxt-windicss](https://github.com/windicss/nuxt-windicss) - 🍃 Windi CSS for Nuxt.js ⚡
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [nuxt/modules](https://github.com/nuxt/modules) - Discover the list of modules to supercharge your Nuxt project.
 - [nuxt-community/module-template](https://github.com/nuxt-community/module-template) - Starter template for Nuxt.js Modules
 - [eventmachine/eventmachine](https://github.com/eventmachine/eventmachine) - EventMachine: fast, simple event-processing library for Ruby programs
 - [fzn0x/Presences](https://github.com/fzn0x/Presences) - 🛒 Storage for Presences located at our Presence Store.
@@ -1862,6 +1861,7 @@
 - [nyancodeid/iro](https://github.com/nyancodeid/iro) - IRO - Amazing Color Tools. Color Convert HEX, RGB, HSL and CMYK. Color Inspection with Camera.
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+- [nuxt/modules](https://github.com/nuxt/modules) - Discover the Nuxt modules to add any CMS, Database, UI, Auth and integrations into your Vue application.
 - [nuxt-community/awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) - A curated list of awesome things related to Nuxt.js
 
 ## web 
