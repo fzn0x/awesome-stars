@@ -798,6 +798,7 @@
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
+- [nuxt/modules](https://github.com/nuxt/modules) - Discover the Nuxt modules to add any CMS, Database, UI, Auth and integrations into your Vue application.
 - [PreMiD/Presences](https://github.com/PreMiD/Presences) - 🛒 Storage for Presences located at our Presence Store.
 - [fzn0x/Presences](https://github.com/fzn0x/Presences) - 🛒 Storage for Presences located at our Presence Store.
 - [alfianandinugraha/create-react-typescript-app](https://github.com/alfianandinugraha/create-react-typescript-app) - Integrating Reactjs with Typescript + ESLint
@@ -835,7 +836,6 @@
 - [nyancodeid/quotes](https://github.com/nyancodeid/quotes) - This is the place to try and learn to contribute with a simple, open source quotes website. Part of Hacktoberfest 2021
 - [nyancodeid/iro](https://github.com/nyancodeid/iro) - IRO - Amazing Color Tools. Color Convert HEX, RGB, HSL and CMYK. Color Inspection with Camera.
 - [windicss/nuxt-windicss](https://github.com/windicss/nuxt-windicss) - 🍃 Windi CSS for Nuxt.js ⚡
-- [nuxt/modules](https://github.com/nuxt/modules) - Discover the list of modules to supercharge your Nuxt project.
 
 ## WebAssembly 
 
