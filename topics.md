@@ -326,6 +326,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
+- [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 - [darcyclarke/rawkit](https://github.com/darcyclarke/rawkit) - 🦊 Immediately Open Chrome DevTools when debugging Node.js apps
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -1323,7 +1324,6 @@
 - [VoltrexKeyva/liveuamap-news](https://github.com/VoltrexKeyva/liveuamap-news) - Gets news from https://liveuamap.com/ and sends it to a Discord webhook.
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-- [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 - [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
 - [taion/graphql-type-json](https://github.com/taion/graphql-type-json) - JSON scalar type for GraphQL.js
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual's server
