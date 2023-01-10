@@ -337,7 +337,6 @@
 - [gianlucaparadise/telegraf-calendar-telegram](https://github.com/gianlucaparadise/telegraf-calendar-telegram) - Inline calendar for Telegram bots using Telegraf framework
 - [darcyclarke/rawkit](https://github.com/darcyclarke/rawkit) - 🦊 Immediately Open Chrome DevTools when debugging Node.js apps
 - [tc39/proposal-type-annotations](https://github.com/tc39/proposal-type-annotations) - ECMAScript proposal for type syntax that is erased - Stage 1
-- [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [browserify/brfs](https://github.com/browserify/brfs) - browserify fs.readFileSync() static asset inliner
 - [browserify/browserify-handbook](https://github.com/browserify/browserify-handbook) - how to build modular applications with browserify
@@ -693,6 +692,7 @@
 
 ## TypeScript 
 
+- [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [dawsbot/essential-eth](https://github.com/dawsbot/essential-eth) - 🪶 An alternative to ethers & web3 that's 20x smaller
 - [yearn/yearn-watch](https://github.com/yearn/yearn-watch) - Yearn Watch is a tool that provides vault and strategies data for management
 - [egoist/download-twitter-video](https://github.com/egoist/download-twitter-video) - The easiest way to download any Twitter video
@@ -759,6 +759,7 @@
 - [thomasdondorf/puppeteer-cluster](https://github.com/thomasdondorf/puppeteer-cluster) - Puppeteer Pool, run a cluster of instances in parallel
 - [watermelontools/watermelon-extension](https://github.com/watermelontools/watermelon-extension) - 🍉  Your code archeology toolbox
 - [lolPants/hwid](https://github.com/lolPants/hwid) - Grab the system's unique hardware ID
+- [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [AllAwesome497/gql-pathify](https://github.com/AllAwesome497/gql-pathify) - Converts GraphQL AST into an array of paths.
 - [lume/lume](https://github.com/lume/lume) - Create 3D web applications with HTML. Bring a new depth to your DOM!
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
