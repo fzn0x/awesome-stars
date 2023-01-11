@@ -284,6 +284,7 @@
 - [0xs34n/blockchain](https://github.com/0xs34n/blockchain) - 📖Code for Blockchain Demo
 - [bellaj/Blockchain](https://github.com/bellaj/Blockchain) - Compilation of useful documents and scientific papers about Blockchain & cryptocurrencies.
 - [solana-labs/solana-web3.js](https://github.com/solana-labs/solana-web3.js) - Solana JavaScript SDK
+- [kadenzipfel/smart-contract-vulnerabilities](https://github.com/kadenzipfel/smart-contract-vulnerabilities) - A collection of smart contract vulnerabilities along with prevention methods.
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [tintinweb/smart-contract-sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) - 🐦🌴🌴🌴🦕 A home for ethereum smart contracts. 🏠
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
@@ -513,6 +514,7 @@
 - [openblockchains/awesome-blockchains](https://github.com/openblockchains/awesome-blockchains) - A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized.
 - [bellaj/Blockchain](https://github.com/bellaj/Blockchain) - Compilation of useful documents and scientific papers about Blockchain & cryptocurrencies.
 - [chainsulting/Smart-Contract-Security-Audits](https://github.com/chainsulting/Smart-Contract-Security-Audits) - Certified Smart Contract Audits for Ethereum, Solana, Near, Cardano, Aptos, Sui, Binance Smart Chain, Fantom, EOS, Tezos by Chainsulting
+- [kadenzipfel/smart-contract-vulnerabilities](https://github.com/kadenzipfel/smart-contract-vulnerabilities) - A collection of smart contract vulnerabilities along with prevention methods.
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [tintinweb/smart-contract-sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) - 🐦🌴🌴🌴🦕 A home for ethereum smart contracts. 🏠
 - [0xProject/0x-mesh](https://github.com/0xProject/0x-mesh) - A peer-to-peer network for sharing 0x orders
@@ -1229,6 +1231,7 @@
 
 ## others 
 
+- [shaunpersad/throttled-queue](https://github.com/shaunpersad/throttled-queue) - Throttles arbitrary code to execute a maximum number of times per interval. Best for making throttled API requests.
 - [simov/slugify](https://github.com/simov/slugify) - Slugifies a string
 - [yearn/yearn-watch](https://github.com/yearn/yearn-watch) - Yearn Watch is a tool that provides vault and strategies data for management
 - [GoogleCloudPlatform/cloud-sql-proxy](https://github.com/GoogleCloudPlatform/cloud-sql-proxy) - A utility for connecting securely to your Cloud SQL instances
@@ -1340,7 +1343,6 @@
 - [zweimach/TeachYourselfCS-ID](https://github.com/zweimach/TeachYourselfCS-ID) - Teach Yourself CS - Bahasa Indonesia Translation
 - [decrypto-org/blockchain-papers](https://github.com/decrypto-org/blockchain-papers) - A curated list of academic blockchain-related papers
 - [indexed-finance/multicall](https://github.com/indexed-finance/multicall) - Solidity contract and typescript library for static multi-calls
-- [kadenzipfel/smart-contract-attack-vectors](https://github.com/kadenzipfel/smart-contract-attack-vectors) - A collection of smart contract attack vectors along with prevention methods.
 - [plc-ultima/plcu](https://github.com/plc-ultima/plcu) - PLC Ultima Core
 - [thechungster/splinterlands-api](https://github.com/thechungster/splinterlands-api) - Package for the Splinterlands API. Typed responses
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
@@ -1674,6 +1676,7 @@
 - [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
+- [kadenzipfel/smart-contract-vulnerabilities](https://github.com/kadenzipfel/smart-contract-vulnerabilities) - A collection of smart contract vulnerabilities along with prevention methods.
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
@@ -1712,6 +1715,7 @@
 - [dmfxyz/murky](https://github.com/dmfxyz/murky) - Merkle Proof Generator and Validator in Solidity
 - [frankiefab100/Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources) - The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.
 - [chainsulting/Smart-Contract-Security-Audits](https://github.com/chainsulting/Smart-Contract-Security-Audits) - Certified Smart Contract Audits for Ethereum, Solana, Near, Cardano, Aptos, Sui, Binance Smart Chain, Fantom, EOS, Tezos by Chainsulting
+- [kadenzipfel/smart-contract-vulnerabilities](https://github.com/kadenzipfel/smart-contract-vulnerabilities) - A collection of smart contract vulnerabilities along with prevention methods.
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [tintinweb/smart-contract-sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) - 🐦🌴🌴🌴🦕 A home for ethereum smart contracts. 🏠
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
