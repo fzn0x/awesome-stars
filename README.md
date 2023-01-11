@@ -527,7 +527,7 @@
 - [zweimach/TeachYourselfCS-ID](https://github.com/zweimach/TeachYourselfCS-ID) - Teach Yourself CS - Bahasa Indonesia Translation
 - [decrypto-org/blockchain-papers](https://github.com/decrypto-org/blockchain-papers) - A curated list of academic blockchain-related papers
 - [frankiefab100/Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources) - The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.
-- [kadenzipfel/smart-contract-attack-vectors](https://github.com/kadenzipfel/smart-contract-attack-vectors) - A collection of smart contract attack vectors along with prevention methods.
+- [kadenzipfel/smart-contract-vulnerabilities](https://github.com/kadenzipfel/smart-contract-vulnerabilities) - A collection of smart contract vulnerabilities along with prevention methods.
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [jasineri/gitartwork](https://github.com/jasineri/gitartwork) - Gitartwork on user's contribution graph
@@ -692,6 +692,7 @@
 
 ## TypeScript 
 
+- [shaunpersad/throttled-queue](https://github.com/shaunpersad/throttled-queue) - Throttles arbitrary code to execute a maximum number of times per interval. Best for making throttled API requests.
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [dawsbot/essential-eth](https://github.com/dawsbot/essential-eth) - 🪶 An alternative to ethers & web3 that's 20x smaller
 - [yearn/yearn-watch](https://github.com/yearn/yearn-watch) - Yearn Watch is a tool that provides vault and strategies data for management
